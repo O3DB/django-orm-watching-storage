@@ -21,7 +21,7 @@ $ source env/bin/activate
 ```
 $ pip install -r requirements.txt
 ```
-4. В корневой папке создайте файл .env и запишите в него полученные данные для входа
+4. В корневой папке создайте файл .env и запишите в него полученные данные для входа   
 DB_PASSWORD=  
 DB_HOST=  
 DB_PORT=     
